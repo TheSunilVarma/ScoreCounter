@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="line">1dp</dimen>
+    <dimen name="linetop">15dp</dimen>
+    <dimen name="layoutwidth">0dp</dimen>
+    <dimen name="_16">16dp</dimen>
+    <dimen name="_24">24dp</dimen>
+    <dimen name="_32">32dp</dimen>
+    <dimen name="_8">8dp</dimen>
+    <dimen name="_56">56sp</dimen>
+</resources>

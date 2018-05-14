@@ -7,11 +7,9 @@ import android.widget.TextView;
 
 public class ScoreActivity extends AppCompatActivity {
 
-    //  Score for Team A
     int scoreOfTeamA = 0;
 
-    //  Score for Team B
-    int scoreOfTeamB = 0;
+     int scoreOfTeamB = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
